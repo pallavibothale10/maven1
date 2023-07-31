@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="7" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-24T23:31:17 IST" name="Suite" finished-at="2023-07-24T23:38:39 IST" duration-ms="442359">
+    <groups>
+    </groups>
+    <test started-at="2023-07-24T23:31:17 IST" name="Test" finished-at="2023-07-24T23:38:39 IST" duration-ms="442359">
+      <class name="Com.Ecommers.TestCases.TC_LoginTestCases">
+        <test-method is-config="true" signature="intialization(java.lang.String)[pri:0, instance:Com.Ecommers.TestCases.TC_LoginTestCases@3cebbb30]" started-at="2023-07-24T23:31:38 IST" name="intialization" finished-at="2023-07-24T23:31:50 IST" duration-ms="11857" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method signature="Login()[pri:0, instance:Com.Ecommers.TestCases.TC_LoginTestCases@3cebbb30]" started-at="2023-07-24T23:31:50 IST" name="Login" finished-at="2023-07-24T23:31:55 IST" duration-ms="5506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Com.Ecommers.TestCases.TC_LoginTestCases@3cebbb30]" started-at="2023-07-24T23:31:55 IST" name="Teardown" finished-at="2023-07-24T23:31:58 IST" duration-ms="3028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Com.Ecommers.TestCases.TC_LoginTestCases -->
+      <class name="Com.Ecommers.TestCases.TC_BrokenLinks_TestCases">
+        <test-method is-config="true" signature="intialization(java.lang.String)[pri:0, instance:Com.Ecommers.TestCases.TC_BrokenLinks_TestCases@67f639d3]" started-at="2023-07-24T23:35:25 IST" name="intialization" finished-at="2023-07-24T23:35:56 IST" duration-ms="30846" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method signature="TestMethod()[pri:0, instance:Com.Ecommers.TestCases.TC_BrokenLinks_TestCases@67f639d3]" started-at="2023-07-24T23:35:56 IST" name="TestMethod" finished-at="2023-07-24T23:37:47 IST" duration-ms="110874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Com.Ecommers.TestCases.TC_BrokenLinks_TestCases@67f639d3]" started-at="2023-07-24T23:37:47 IST" name="Teardown" finished-at="2023-07-24T23:37:50 IST" duration-ms="3016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Com.Ecommers.TestCases.TC_BrokenLinks_TestCases -->
+      <class name="Com.Ecommers.TestCases.TC_AddToCart">
+        <test-method is-config="true" signature="intialization(java.lang.String)[pri:0, instance:Com.Ecommers.TestCases.TC_AddToCart@290222c1]" started-at="2023-07-24T23:34:11 IST" name="intialization" finished-at="2023-07-24T23:34:30 IST" duration-ms="19494" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method signature="AddProduct()[pri:0, instance:Com.Ecommers.TestCases.TC_AddToCart@290222c1]" started-at="2023-07-24T23:34:30 IST" name="AddProduct" finished-at="2023-07-24T23:35:21 IST" duration-ms="50906" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),"Apple MacBook Pro 13-inch ")]"}
+  (Session info: chrome=114.0.5735.199)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2ac6daf5f4c8c7aa43c193e672d154c3, findElement {using=xpath, value=//a[contains(text(),"Apple MacBook Pro 13-inch ")]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\A\AppData\Local\Te...}, goog:chromeOptions: {debuggerAddress: localhost:53034}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53034/devtoo..., se:cdpVersion: 114.0.5735.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2ac6daf5f4c8c7aa43c193e672d154c3]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),"Apple MacBook Pro 13-inch ")]"}
+  (Session info: chrome=114.0.5735.199)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2ac6daf5f4c8c7aa43c193e672d154c3, findElement {using=xpath, value=//a[contains(text(),"Apple MacBook Pro 13-inch ")]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\A\AppData\Local\Te...}, goog:chromeOptions: {debuggerAddress: localhost:53034}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53034/devtoo..., se:cdpVersion: 114.0.5735.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2ac6daf5f4c8c7aa43c193e672d154c3
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy19.getWrappedElement(Unknown Source)
+at org.openqa.selenium.remote.internal.WebElementToJsonConverter.apply(WebElementToJsonConverter.java:51)
+at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1006)
+at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:477)
+at Com.Ecommerce.Utilities.GenericUtils.ClickElementUsingJavaScript(GenericUtils.java:53)
+at Com.Ecommers.PageClasses.PageClass_AddToCart.SelectProduct(PageClass_AddToCart.java:41)
+at Com.Ecommers.TestCases.TC_AddToCart.AddProduct(TC_AddToCart.java:57)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddProduct -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Com.Ecommers.TestCases.TC_AddToCart@290222c1]" started-at="2023-07-24T23:35:22 IST" name="Teardown" finished-at="2023-07-24T23:35:25 IST" duration-ms="3103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Com.Ecommers.TestCases.TC_AddToCart -->
+      <class name="Com.Ecommers.TestCases.TC_Addtocart_Books">
+        <test-method is-config="true" signature="intialization(java.lang.String)[pri:0, instance:Com.Ecommers.TestCases.TC_Addtocart_Books@6253c26]" started-at="2023-07-24T23:37:50 IST" name="intialization" finished-at="2023-07-24T23:38:03 IST" duration-ms="13455" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method signature="AddProduct()[pri:0, instance:Com.Ecommers.TestCases.TC_Addtocart_Books@6253c26]" started-at="2023-07-24T23:38:03 IST" name="AddProduct" finished-at="2023-07-24T23:38:36 IST" duration-ms="32974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddProduct -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Com.Ecommers.TestCases.TC_Addtocart_Books@6253c26]" started-at="2023-07-24T23:38:36 IST" name="Teardown" finished-at="2023-07-24T23:38:39 IST" duration-ms="3018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Com.Ecommers.TestCases.TC_Addtocart_Books -->
+      <class name="Com.Ecommers.TestCases.TC_NewRegistrationTestCases">
+        <test-method is-config="true" signature="intialization(java.lang.String)[pri:0, instance:Com.Ecommers.TestCases.TC_NewRegistrationTestCases@306e95ec]" started-at="2023-07-24T23:31:17 IST" name="intialization" finished-at="2023-07-24T23:31:29 IST" duration-ms="11707" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method signature="Registration()[pri:0, instance:Com.Ecommers.TestCases.TC_NewRegistrationTestCases@306e95ec]" started-at="2023-07-24T23:31:29 IST" name="Registration" finished-at="2023-07-24T23:31:35 IST" duration-ms="5861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Com.Ecommers.TestCases.TC_NewRegistrationTestCases@306e95ec]" started-at="2023-07-24T23:31:35 IST" name="Teardown" finished-at="2023-07-24T23:31:38 IST" duration-ms="3002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Com.Ecommers.TestCases.TC_NewRegistrationTestCases -->
+      <class name="Com.Ecommers.TestCases.TC_LoginTest_Data">
+        <test-method is-config="true" signature="intialization(java.lang.String)[pri:0, instance:Com.Ecommers.TestCases.TC_LoginTest_Data@12aba8be]" started-at="2023-07-24T23:32:03 IST" name="intialization" finished-at="2023-07-24T23:32:16 IST" duration-ms="13582" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method signature="Login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Com.Ecommers.TestCases.TC_LoginTest_Data@12aba8be]" started-at="2023-07-24T23:32:16 IST" name="Login" data-provider="Logindata" finished-at="2023-07-24T23:32:20 IST" duration-ms="3279" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ssb123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ssb123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertTrue(Assert.java:56)
+at org.testng.Assert.assertTrue(Assert.java:66)
+at Com.Ecommers.TestCases.TC_LoginTest_Data.Login(TC_LoginTest_Data.java:81)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Com.Ecommers.TestCases.TC_LoginTest_Data@12aba8be]" started-at="2023-07-24T23:32:20 IST" name="Teardown" finished-at="2023-07-24T23:32:23 IST" duration-ms="3016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="intialization(java.lang.String)[pri:0, instance:Com.Ecommers.TestCases.TC_LoginTest_Data@12aba8be]" started-at="2023-07-24T23:32:23 IST" name="intialization" finished-at="2023-07-24T23:32:33 IST" duration-ms="9825" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method signature="Login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Com.Ecommers.TestCases.TC_LoginTest_Data@12aba8be]" started-at="2023-07-24T23:32:33 IST" name="Login" data-provider="Logindata" finished-at="2023-07-24T23:32:38 IST" duration-ms="4305" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Akash@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Akash@1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Com.Ecommers.TestCases.TC_LoginTest_Data@12aba8be]" started-at="2023-07-24T23:32:38 IST" name="Teardown" finished-at="2023-07-24T23:32:41 IST" duration-ms="3079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="intialization(java.lang.String)[pri:0, instance:Com.Ecommers.TestCases.TC_LoginTest_Data@12aba8be]" started-at="2023-07-24T23:32:41 IST" name="intialization" finished-at="2023-07-24T23:33:07 IST" duration-ms="26556" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method signature="Login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Com.Ecommers.TestCases.TC_LoginTest_Data@12aba8be]" started-at="2023-07-24T23:33:07 IST" name="Login" data-provider="Logindata" finished-at="2023-07-24T23:33:12 IST" duration-ms="4285" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Akas1h@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Akash@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Com.Ecommers.TestCases.TC_LoginTest_Data@12aba8be]" started-at="2023-07-24T23:33:12 IST" name="Teardown" finished-at="2023-07-24T23:33:15 IST" duration-ms="3010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="intialization(java.lang.String)[pri:0, instance:Com.Ecommers.TestCases.TC_LoginTest_Data@12aba8be]" started-at="2023-07-24T23:33:15 IST" name="intialization" finished-at="2023-07-24T23:33:24 IST" duration-ms="9539" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method signature="Login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Com.Ecommers.TestCases.TC_LoginTest_Data@12aba8be]" started-at="2023-07-24T23:33:24 IST" name="Login" data-provider="Logindata" finished-at="2023-07-24T23:33:29 IST" duration-ms="5168" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Akas@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Akas@1236]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Com.Ecommers.TestCases.TC_LoginTest_Data@12aba8be]" started-at="2023-07-24T23:33:29 IST" name="Teardown" finished-at="2023-07-24T23:33:32 IST" duration-ms="3060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="intialization(java.lang.String)[pri:0, instance:Com.Ecommers.TestCases.TC_LoginTest_Data@12aba8be]" started-at="2023-07-24T23:33:32 IST" name="intialization" finished-at="2023-07-24T23:34:05 IST" duration-ms="33098" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method signature="Login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Com.Ecommers.TestCases.TC_LoginTest_Data@12aba8be]" started-at="2023-07-24T23:34:05 IST" name="Login" data-provider="Logindata" finished-at="2023-07-24T23:34:07 IST" duration-ms="1865" status="FAIL">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <exception class="java.lang.IllegalArgumentException">
+            <message>
+              <![CDATA[Keys to send should be a not null CharSequence]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
+at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:98)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+at jdk.proxy2/jdk.proxy2.$Proxy19.sendKeys(Unknown Source)
+at Com.Ecommers.PageClasses.TC_Login.registerEmail(TC_Login.java:36)
+at Com.Ecommers.TestCases.TC_LoginTest_Data.Login(TC_LoginTest_Data.java:31)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalArgumentException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Com.Ecommers.TestCases.TC_LoginTest_Data@12aba8be]" started-at="2023-07-24T23:34:08 IST" name="Teardown" finished-at="2023-07-24T23:34:11 IST" duration-ms="3014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Com.Ecommers.TestCases.TC_LoginTest_Data -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

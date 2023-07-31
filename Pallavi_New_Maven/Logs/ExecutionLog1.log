@@ -1,0 +1,315 @@
+2023-07-24 23:18:01,289 [main] INFO Automation Framework - Open Browser
+2023-07-24 23:18:01,475 [main] INFO Automation Framework - Maximize the Browser
+2023-07-24 23:18:03,615 [main] INFO Automation Framework - Open Application
+2023-07-24 23:18:03,650 [main] INFO Automation Framework - Open URL
+2023-07-24 23:18:08,322 [main] INFO Automation Framework - Click login button
+2023-07-24 23:18:11,505 [main] INFO Automation Framework - Enter Email
+2023-07-24 23:18:14,858 [main] INFO Automation Framework - Enter Passwrod
+2023-07-24 23:18:19,006 [main] INFO Automation Framework - Click on login
+2023-07-24 23:18:25,116 [main] INFO Automation Framework - Click button
+2023-07-24 23:18:25,303 [main] INFO Automation Framework - Click Addtocart
+2023-07-24 23:18:29,981 [main] INFO Automation Framework - Click element
+2023-07-24 23:18:30,133 [main] INFO Automation Framework - Click product
+2023-07-24 23:22:49,565 [main] INFO Automation Framework - Open Browser
+2023-07-24 23:22:49,755 [main] INFO Automation Framework - Maximize the Browser
+2023-07-24 23:22:51,910 [main] INFO Automation Framework - Open Application
+2023-07-24 23:22:53,720 [main] INFO Automation Framework - Click Register button
+2023-07-24 23:22:53,841 [main] INFO Automation Framework - Select gender
+2023-07-24 23:22:53,993 [main] INFO Automation Framework - Enter firstname
+2023-07-24 23:22:54,134 [main] INFO Automation Framework - Enter lastname
+2023-07-24 23:22:55,313 [main] INFO Automation Framework - Enter email
+2023-07-24 23:22:55,465 [main] INFO Automation Framework - Enter password
+2023-07-24 23:23:11,406 [main] INFO Automation Framework - Open Browser
+2023-07-24 23:23:11,675 [main] INFO Automation Framework - Maximize the Browser
+2023-07-24 23:23:19,094 [main] INFO Automation Framework - Open Application
+2023-07-24 23:23:20,772 [main] INFO Automation Framework - Click login button
+2023-07-24 23:23:20,976 [main] INFO Automation Framework - Enter Email
+2023-07-24 23:23:21,124 [main] INFO Automation Framework - Enter Passwrod
+2023-07-24 23:23:21,773 [main] INFO Automation Framework - Click login
+2023-07-24 23:23:33,362 [main] INFO Automation Framework - Open Browser
+2023-07-24 23:23:33,564 [main] INFO Automation Framework - Maximize the Browser
+2023-07-24 23:23:34,888 [main] INFO Automation Framework - Open Application
+2023-07-24 23:23:37,509 [main] INFO Automation Framework - Click login button
+2023-07-24 23:23:39,041 [main] INFO Automation Framework - Enter Email
+2023-07-24 23:23:39,421 [main] INFO Automation Framework - Enter Passwrod
+2023-07-24 23:23:40,277 [main] INFO Automation Framework - Click login
+2023-07-24 23:23:54,502 [main] INFO Automation Framework - Open Browser
+2023-07-24 23:23:54,742 [main] INFO Automation Framework - Maximize the Browser
+2023-07-24 23:23:59,474 [main] INFO Automation Framework - Open Application
+2023-07-24 23:24:02,563 [main] INFO Automation Framework - Click login button
+2023-07-24 23:24:03,362 [main] INFO Automation Framework - Enter Email
+2023-07-24 23:24:04,076 [main] INFO Automation Framework - Enter Passwrod
+2023-07-24 23:24:05,044 [main] INFO Automation Framework - Click login
+2023-07-24 23:24:14,519 [main] INFO Automation Framework - Open Browser
+2023-07-24 23:24:14,892 [main] INFO Automation Framework - Maximize the Browser
+2023-07-24 23:24:17,314 [main] INFO Automation Framework - Open Application
+2023-07-24 23:24:18,431 [main] INFO Automation Framework - Click login button
+2023-07-24 23:24:18,719 [main] INFO Automation Framework - Enter Email
+2023-07-24 23:24:19,192 [main] INFO Automation Framework - Enter Passwrod
+2023-07-24 23:24:21,634 [main] INFO Automation Framework - Click login
+2023-07-24 23:24:36,373 [main] INFO Automation Framework - Open Browser
+2023-07-24 23:24:36,716 [main] INFO Automation Framework - Maximize the Browser
+2023-07-24 23:24:41,351 [main] INFO Automation Framework - Open Application
+2023-07-24 23:24:43,080 [main] INFO Automation Framework - Click login button
+2023-07-24 23:24:54,392 [main] INFO Automation Framework - Open Browser
+2023-07-24 23:24:54,549 [main] INFO Automation Framework - Maximize the Browser
+2023-07-24 23:24:57,573 [main] INFO Automation Framework - Open Application
+2023-07-24 23:24:57,663 [main] INFO Automation Framework - Open URL
+2023-07-24 23:25:05,670 [main] INFO Automation Framework - Click login button
+2023-07-24 23:25:11,671 [main] INFO Automation Framework - Enter Email
+2023-07-24 23:25:18,603 [main] INFO Automation Framework - Enter Passwrod
+2023-07-24 23:25:23,692 [main] INFO Automation Framework - Click on login
+2023-07-24 23:25:27,323 [main] INFO Automation Framework - mousehover on computer
+2023-07-24 23:25:29,947 [main] INFO Automation Framework - Clicked on Notebook text
+2023-07-24 23:26:07,763 [main] INFO Automation Framework - Open Browser
+2023-07-24 23:26:07,942 [main] INFO Automation Framework - Maximize the Browser
+2023-07-24 23:26:11,471 [main] INFO Automation Framework - Open Application
+2023-07-24 23:31:26,927 [main] INFO Automation Framework - Open Browser
+2023-07-24 23:31:27,172 [main] INFO Automation Framework - Maximize the Browser
+2023-07-24 23:31:29,379 [main] INFO Automation Framework - Open Application
+2023-07-24 23:31:30,323 [main] INFO Automation Framework - Click Register button
+2023-07-24 23:31:30,455 [main] INFO Automation Framework - Select gender
+2023-07-24 23:31:30,671 [main] INFO Automation Framework - Enter firstname
+2023-07-24 23:31:30,837 [main] INFO Automation Framework - Enter lastname
+2023-07-24 23:31:33,026 [main] INFO Automation Framework - Enter email
+2023-07-24 23:31:33,443 [main] INFO Automation Framework - Enter password
+2023-07-24 23:31:45,558 [main] INFO Automation Framework - Open Browser
+2023-07-24 23:31:45,887 [main] INFO Automation Framework - Maximize the Browser
+2023-07-24 23:31:50,108 [main] INFO Automation Framework - Open Application
+2023-07-24 23:31:53,983 [main] INFO Automation Framework - Click login button
+2023-07-24 23:31:54,258 [main] INFO Automation Framework - Enter Email
+2023-07-24 23:31:54,637 [main] INFO Automation Framework - Enter Passwrod
+2023-07-24 23:31:55,643 [main] INFO Automation Framework - Click login
+2023-07-24 23:32:11,160 [main] INFO Automation Framework - Open Browser
+2023-07-24 23:32:11,429 [main] INFO Automation Framework - Maximize the Browser
+2023-07-24 23:32:16,844 [main] INFO Automation Framework - Open Application
+2023-07-24 23:32:18,822 [main] INFO Automation Framework - Click login button
+2023-07-24 23:32:19,100 [main] INFO Automation Framework - Enter Email
+2023-07-24 23:32:19,322 [main] INFO Automation Framework - Enter Passwrod
+2023-07-24 23:32:20,118 [main] INFO Automation Framework - Click login
+2023-07-24 23:32:30,361 [main] INFO Automation Framework - Open Browser
+2023-07-24 23:32:30,559 [main] INFO Automation Framework - Maximize the Browser
+2023-07-24 23:32:33,683 [main] INFO Automation Framework - Open Application
+2023-07-24 23:32:36,197 [main] INFO Automation Framework - Click login button
+2023-07-24 23:32:36,904 [main] INFO Automation Framework - Enter Email
+2023-07-24 23:32:37,306 [main] INFO Automation Framework - Enter Passwrod
+2023-07-24 23:32:38,061 [main] INFO Automation Framework - Click login
+2023-07-24 23:33:01,526 [main] INFO Automation Framework - Open Browser
+2023-07-24 23:33:02,881 [main] INFO Automation Framework - Maximize the Browser
+2023-07-24 23:33:07,719 [main] INFO Automation Framework - Open Application
+2023-07-24 23:33:09,581 [main] INFO Automation Framework - Click login button
+2023-07-24 23:33:10,327 [main] INFO Automation Framework - Enter Email
+2023-07-24 23:33:11,198 [main] INFO Automation Framework - Enter Passwrod
+2023-07-24 23:33:11,998 [main] INFO Automation Framework - Click login
+2023-07-24 23:33:22,240 [main] INFO Automation Framework - Open Browser
+2023-07-24 23:33:22,463 [main] INFO Automation Framework - Maximize the Browser
+2023-07-24 23:33:24,554 [main] INFO Automation Framework - Open Application
+2023-07-24 23:33:27,026 [main] INFO Automation Framework - Click login button
+2023-07-24 23:33:27,783 [main] INFO Automation Framework - Enter Email
+2023-07-24 23:33:28,450 [main] INFO Automation Framework - Enter Passwrod
+2023-07-24 23:33:29,714 [main] INFO Automation Framework - Click login
+2023-07-24 23:34:02,489 [main] INFO Automation Framework - Open Browser
+2023-07-24 23:34:02,808 [main] INFO Automation Framework - Maximize the Browser
+2023-07-24 23:34:05,893 [main] INFO Automation Framework - Open Application
+2023-07-24 23:34:07,724 [main] INFO Automation Framework - Click login button
+2023-07-24 23:34:23,604 [main] INFO Automation Framework - Open Browser
+2023-07-24 23:34:24,496 [main] INFO Automation Framework - Maximize the Browser
+2023-07-24 23:34:30,784 [main] INFO Automation Framework - Open Application
+2023-07-24 23:34:30,835 [main] INFO Automation Framework - Open URL
+2023-07-24 23:34:37,032 [main] INFO Automation Framework - Click login button
+2023-07-24 23:34:41,644 [main] INFO Automation Framework - Enter Email
+2023-07-24 23:34:45,662 [main] INFO Automation Framework - Enter Passwrod
+2023-07-24 23:34:49,780 [main] INFO Automation Framework - Click on login
+2023-07-24 23:34:54,183 [main] INFO Automation Framework - mousehover on computer
+2023-07-24 23:34:56,361 [main] INFO Automation Framework - Clicked on Notebook text
+2023-07-24 23:35:50,772 [main] INFO Automation Framework - Open Browser
+2023-07-24 23:35:51,291 [main] INFO Automation Framework - Maximize the Browser
+2023-07-24 23:35:56,480 [main] INFO Automation Framework - Open Application
+2023-07-24 23:37:59,282 [main] INFO Automation Framework - Open Browser
+2023-07-24 23:37:59,426 [main] INFO Automation Framework - Maximize the Browser
+2023-07-24 23:38:03,846 [main] INFO Automation Framework - Open Application
+2023-07-24 23:38:03,915 [main] INFO Automation Framework - Open URL
+2023-07-24 23:38:10,771 [main] INFO Automation Framework - Click login button
+2023-07-24 23:38:16,232 [main] INFO Automation Framework - Enter Email
+2023-07-24 23:38:20,435 [main] INFO Automation Framework - Enter Passwrod
+2023-07-24 23:38:27,411 [main] INFO Automation Framework - Click on login
+2023-07-24 23:38:32,274 [main] INFO Automation Framework - Click button
+2023-07-24 23:38:32,439 [main] INFO Automation Framework - Click Addtocart
+2023-07-24 23:38:35,668 [main] INFO Automation Framework - Click element
+2023-07-24 23:38:36,874 [main] INFO Automation Framework - Click product
+2023-07-25 09:21:52,261 [main] INFO Automation Framework - Open Browser
+2023-07-25 09:21:52,422 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 09:21:54,671 [main] INFO Automation Framework - Open Application
+2023-07-25 09:21:54,706 [main] INFO Automation Framework - Open URL
+2023-07-25 09:21:59,634 [main] INFO Automation Framework - Click login button
+2023-07-25 09:22:03,116 [main] INFO Automation Framework - Enter Email
+2023-07-25 09:22:06,413 [main] INFO Automation Framework - Enter Passwrod
+2023-07-25 09:22:11,896 [main] INFO Automation Framework - Click on login
+2023-07-25 09:22:18,095 [main] INFO Automation Framework - Click button
+2023-07-25 09:22:18,361 [main] INFO Automation Framework - Click Addtocart
+2023-07-25 09:22:20,308 [main] INFO Automation Framework - Click element
+2023-07-25 09:22:20,412 [main] INFO Automation Framework - Click product
+2023-07-25 09:24:35,039 [main] INFO Automation Framework - Open Browser
+2023-07-25 09:24:35,195 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 09:24:38,507 [main] INFO Automation Framework - Open Application
+2023-07-25 09:24:38,635 [main] INFO Automation Framework - Open URL
+2023-07-25 09:24:43,309 [main] INFO Automation Framework - Click login button
+2023-07-25 09:24:46,669 [main] INFO Automation Framework - Enter Email
+2023-07-25 09:24:51,378 [main] INFO Automation Framework - Enter Passwrod
+2023-07-25 09:24:55,384 [main] INFO Automation Framework - Click on login
+2023-07-25 09:25:00,744 [main] INFO Automation Framework - Click button
+2023-07-25 09:25:01,463 [main] INFO Automation Framework - Click Addtocart
+2023-07-25 09:25:04,336 [main] INFO Automation Framework - Click element
+2023-07-25 09:25:04,752 [main] INFO Automation Framework - Click product
+2023-07-25 09:28:03,456 [main] INFO Automation Framework - Open Browser
+2023-07-25 09:28:03,615 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 09:28:05,691 [main] INFO Automation Framework - Open Application
+2023-07-25 09:28:07,422 [main] INFO Automation Framework - Click Register button
+2023-07-25 09:28:07,551 [main] INFO Automation Framework - Select gender
+2023-07-25 09:28:07,701 [main] INFO Automation Framework - Enter firstname
+2023-07-25 09:28:07,864 [main] INFO Automation Framework - Enter lastname
+2023-07-25 09:28:09,058 [main] INFO Automation Framework - Enter email
+2023-07-25 09:28:09,209 [main] INFO Automation Framework - Enter password
+2023-07-25 09:28:22,119 [main] INFO Automation Framework - Open Browser
+2023-07-25 09:28:22,581 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 09:28:27,452 [main] INFO Automation Framework - Open Application
+2023-07-25 09:28:29,937 [main] INFO Automation Framework - Click login button
+2023-07-25 09:28:30,253 [main] INFO Automation Framework - Enter Email
+2023-07-25 09:28:30,589 [main] INFO Automation Framework - Enter Passwrod
+2023-07-25 09:28:32,217 [main] INFO Automation Framework - Click login
+2023-07-25 09:28:48,136 [main] INFO Automation Framework - Open Browser
+2023-07-25 09:28:48,335 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 09:28:51,524 [main] INFO Automation Framework - Open Application
+2023-07-25 09:28:53,625 [main] INFO Automation Framework - Click login button
+2023-07-25 09:28:53,840 [main] INFO Automation Framework - Enter Email
+2023-07-25 09:28:54,003 [main] INFO Automation Framework - Enter Passwrod
+2023-07-25 09:28:54,944 [main] INFO Automation Framework - Click login
+2023-07-25 09:30:03,071 [main] INFO Automation Framework - Open Browser
+2023-07-25 09:30:03,210 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 09:30:06,933 [main] INFO Automation Framework - Open Application
+2023-07-25 09:30:06,940 [main] INFO Automation Framework - Open URL
+2023-07-25 09:30:13,211 [main] INFO Automation Framework - Click login button
+2023-07-25 09:30:16,683 [main] INFO Automation Framework - Enter Email
+2023-07-25 09:30:20,344 [main] INFO Automation Framework - Enter Passwrod
+2023-07-25 09:30:25,161 [main] INFO Automation Framework - Click on login
+2023-07-25 09:30:29,169 [main] INFO Automation Framework - mousehover on computer
+2023-07-25 09:30:31,942 [main] INFO Automation Framework - Clicked on Notebook text
+2023-07-25 09:31:03,703 [main] INFO Automation Framework - Open Browser
+2023-07-25 09:31:03,867 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 09:31:08,118 [main] INFO Automation Framework - Open Application
+2023-07-25 09:31:08,166 [main] INFO Automation Framework - Open URL
+2023-07-25 09:31:13,741 [main] INFO Automation Framework - Click login button
+2023-07-25 09:31:16,895 [main] INFO Automation Framework - Enter Email
+2023-07-25 09:31:21,206 [main] INFO Automation Framework - Enter Passwrod
+2023-07-25 09:31:25,836 [main] INFO Automation Framework - Click on login
+2023-07-25 09:31:29,084 [main] INFO Automation Framework - mousehover on computer
+2023-07-25 09:31:31,071 [main] INFO Automation Framework - Clicked on Notebook text
+2023-07-25 09:32:02,790 [main] INFO Automation Framework - Open Browser
+2023-07-25 09:32:02,935 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 09:32:06,873 [main] INFO Automation Framework - Open Application
+2023-07-25 09:32:06,890 [main] INFO Automation Framework - Open URL
+2023-07-25 09:32:11,561 [main] INFO Automation Framework - Click login button
+2023-07-25 09:32:15,029 [main] INFO Automation Framework - Enter Email
+2023-07-25 09:32:19,339 [main] INFO Automation Framework - Enter Passwrod
+2023-07-25 09:32:23,455 [main] INFO Automation Framework - Click on login
+2023-07-25 09:32:27,112 [main] INFO Automation Framework - mousehover on computer
+2023-07-25 09:32:32,581 [main] INFO Automation Framework - Clicked on Notebook text
+2023-07-25 09:33:04,475 [main] INFO Automation Framework - Open Browser
+2023-07-25 09:33:04,611 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 09:33:08,825 [main] INFO Automation Framework - Open Application
+2023-07-25 09:34:58,988 [main] INFO Automation Framework - Open Browser
+2023-07-25 09:34:59,637 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 09:35:04,421 [main] INFO Automation Framework - Open Application
+2023-07-25 09:35:04,429 [main] INFO Automation Framework - Open URL
+2023-07-25 09:35:11,109 [main] INFO Automation Framework - Click login button
+2023-07-25 09:35:15,227 [main] INFO Automation Framework - Enter Email
+2023-07-25 09:35:18,786 [main] INFO Automation Framework - Enter Passwrod
+2023-07-25 09:35:23,167 [main] INFO Automation Framework - Click on login
+2023-07-25 09:35:29,466 [main] INFO Automation Framework - Click button
+2023-07-25 09:35:29,785 [main] INFO Automation Framework - Click Addtocart
+2023-07-25 09:35:34,782 [main] INFO Automation Framework - Click element
+2023-07-25 09:35:34,875 [main] INFO Automation Framework - Click product
+2023-07-25 13:29:03,357 [main] INFO Automation Framework - Open Browser
+2023-07-25 13:29:03,633 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 13:29:07,856 [main] INFO Automation Framework - Open Application
+2023-07-25 13:29:08,766 [main] INFO Automation Framework - Click Register button
+2023-07-25 13:29:08,899 [main] INFO Automation Framework - Select gender
+2023-07-25 13:29:09,116 [main] INFO Automation Framework - Enter firstname
+2023-07-25 13:29:09,293 [main] INFO Automation Framework - Enter lastname
+2023-07-25 13:29:11,962 [main] INFO Automation Framework - Enter email
+2023-07-25 13:29:12,610 [main] INFO Automation Framework - Enter password
+2023-07-25 13:29:27,804 [main] INFO Automation Framework - Open Browser
+2023-07-25 13:29:28,180 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 13:29:33,173 [main] INFO Automation Framework - Open Application
+2023-07-25 13:29:38,223 [main] INFO Automation Framework - Click login button
+2023-07-25 13:29:38,648 [main] INFO Automation Framework - Enter Email
+2023-07-25 13:29:39,051 [main] INFO Automation Framework - Enter Passwrod
+2023-07-25 13:29:39,885 [main] INFO Automation Framework - Click login
+2023-07-25 13:29:56,751 [main] INFO Automation Framework - Open Browser
+2023-07-25 13:29:56,967 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 13:30:02,364 [main] INFO Automation Framework - Open Application
+2023-07-25 13:30:07,753 [main] INFO Automation Framework - Click login button
+2023-07-25 13:30:08,184 [main] INFO Automation Framework - Enter Email
+2023-07-25 13:30:08,594 [main] INFO Automation Framework - Enter Passwrod
+2023-07-25 13:30:10,569 [main] INFO Automation Framework - Click login
+2023-07-25 13:30:33,130 [main] INFO Automation Framework - Open Browser
+2023-07-25 13:30:33,330 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 13:30:38,761 [main] INFO Automation Framework - Open Application
+2023-07-25 13:30:43,565 [main] INFO Automation Framework - Click login button
+2023-07-25 13:30:44,593 [main] INFO Automation Framework - Enter Email
+2023-07-25 13:30:44,916 [main] INFO Automation Framework - Enter Passwrod
+2023-07-25 13:30:49,147 [main] INFO Automation Framework - Click login
+2023-07-25 13:31:20,741 [main] INFO Automation Framework - Open Browser
+2023-07-25 13:31:22,449 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 13:31:28,702 [main] INFO Automation Framework - Open Application
+2023-07-25 13:31:34,604 [main] INFO Automation Framework - Click login button
+2023-07-25 13:31:34,976 [main] INFO Automation Framework - Enter Email
+2023-07-25 13:31:35,439 [main] INFO Automation Framework - Enter Passwrod
+2023-07-25 13:31:36,407 [main] INFO Automation Framework - Click login
+2023-07-25 13:31:50,604 [main] INFO Automation Framework - Open Browser
+2023-07-25 13:31:51,380 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 13:31:54,897 [main] INFO Automation Framework - Open Application
+2023-07-25 13:31:55,937 [main] INFO Automation Framework - Click login button
+2023-07-25 13:31:56,209 [main] INFO Automation Framework - Enter Email
+2023-07-25 13:31:56,549 [main] INFO Automation Framework - Enter Passwrod
+2023-07-25 13:31:59,245 [main] INFO Automation Framework - Click login
+2023-07-25 13:32:22,083 [main] INFO Automation Framework - Open Browser
+2023-07-25 13:32:22,277 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 13:32:27,443 [main] INFO Automation Framework - Open Application
+2023-07-25 13:32:28,650 [main] INFO Automation Framework - Click login button
+2023-07-25 13:32:29,012 [main] INFO Automation Framework - Enter Email
+2023-07-25 13:32:29,819 [main] INFO Automation Framework - Enter Passwrod
+2023-07-25 13:32:33,255 [main] INFO Automation Framework - Click login
+2023-07-25 13:34:02,441 [main] INFO Automation Framework - Open Browser
+2023-07-25 13:34:02,671 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 13:34:09,586 [main] INFO Automation Framework - Open Application
+2023-07-25 13:34:09,596 [main] INFO Automation Framework - Open URL
+2023-07-25 13:34:16,716 [main] INFO Automation Framework - Click login button
+2023-07-25 13:34:21,894 [main] INFO Automation Framework - Enter Email
+2023-07-25 13:34:26,292 [main] INFO Automation Framework - Enter Passwrod
+2023-07-25 13:34:31,292 [main] INFO Automation Framework - Click on login
+2023-07-25 13:34:35,623 [main] INFO Automation Framework - mousehover on computer
+2023-07-25 13:34:48,643 [main] INFO Automation Framework - Clicked on Notebook text
+2023-07-25 13:35:55,929 [main] INFO Automation Framework - Open Browser
+2023-07-25 13:35:58,936 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 13:36:08,820 [main] INFO Automation Framework - Open Application
+2023-07-25 13:36:09,005 [main] INFO Automation Framework - Open URL
+2023-07-25 13:36:18,431 [main] INFO Automation Framework - Click login button
+2023-07-25 13:36:21,879 [main] INFO Automation Framework - Enter Email
+2023-07-25 13:36:28,159 [main] INFO Automation Framework - Enter Passwrod
+2023-07-25 13:36:33,971 [main] INFO Automation Framework - Click on login
+2023-07-25 13:36:37,743 [main] INFO Automation Framework - mousehover on computer
+2023-07-25 13:36:41,676 [main] INFO Automation Framework - Clicked on Notebook text
+2023-07-25 13:37:31,497 [main] INFO Automation Framework - Open Browser
+2023-07-25 13:37:32,168 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 13:37:35,431 [main] INFO Automation Framework - Open Application
+2023-07-25 13:37:35,438 [main] INFO Automation Framework - Open URL
+2023-07-25 13:37:42,966 [main] INFO Automation Framework - Click login button
+2023-07-25 13:37:46,979 [main] INFO Automation Framework - Enter Email
+2023-07-25 13:37:50,192 [main] INFO Automation Framework - Enter Passwrod
+2023-07-25 13:37:56,256 [main] INFO Automation Framework - Click on login
+2023-07-25 13:38:02,479 [main] INFO Automation Framework - mousehover on computer
+2023-07-25 13:38:05,940 [main] INFO Automation Framework - Clicked on Notebook text
+2023-07-25 13:39:08,853 [main] INFO Automation Framework - Open Browser
+2023-07-25 13:39:10,144 [main] INFO Automation Framework - Maximize the Browser
+2023-07-25 13:39:15,275 [main] INFO Automation Framework - Open Application
